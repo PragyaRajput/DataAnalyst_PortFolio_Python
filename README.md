@@ -21,9 +21,10 @@
 **Goal**- The insights gained can contribute to a better understanding of salary distributions, and potential discrepancies, and inform compensation decisions within organizations.
 
 **9_Portfolio_Project (Youtube_Channel)**: This project focuses on analyzing YouTube channel data, including channel name, video uploads, subscribers, and video views, using Exploratory Data Analysis (EDA) techniques in Python. The objective is to gain insights into channel performance, audience engagement, content trends, and other relevant factors. The YouTube channel dataset used in this analysis was obtained from Kaggle. It contains information about multiple YouTube channels, including channel names, video uploads, number of subscribers, and total video views. 
-**Goal**- The insights gained can help content creators, marketers, and YouTube channel owners understand channel performance, and audience engagement, and optimize content strategies.
+**Goal**- The insights gained can help content creators, marketers, and YouTube channel owners understand channel performance and audience engagement, and optimize content strategies.
 
-
+**11_Portfolio_Project (IMDB Movie Analysis)**: This project focuses on analyzing IMDB movie data using Exploratory Data Analysis (EDA) techniques in Python. The objective is to gain insights into movie attributes, ratings, genres, and other relevant factors. The IMDB movie dataset used in this analysis was obtained from Kaggle. It contains information such as movie titles, release year, genre, ratings, and other metadata. 
+**Goal**- The insights gained can help movie enthusiasts, filmmakers, and industry professionals understand movie attributes, and audience preferences, and make informed decisions.
 
 
 
