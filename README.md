@@ -20,6 +20,8 @@
 **7_Portfolio_Project (Employee Salaries)**: This project focuses on analyzing employee salary data using Exploratory Data Analysis (EDA) techniques in Python. The objective is to gain insights into salary distributions, trends, and factors influencing employee compensation. The employee salary dataset used in this analysis was obtained from Kaggle. It contains information such as employee ID, job title, years of experience, department, and salary. 
 **Goal**- The insights gained can contribute to a better understanding of salary distributions, and potential discrepancies, and inform compensation decisions within organizations.
 
+**9_Portfolio_Project (Youtube_Channel)**: This project focuses on analyzing YouTube channel data, including channel name, video uploads, subscribers, and video views, using Exploratory Data Analysis (EDA) techniques in Python. The objective is to gain insights into channel performance, audience engagement, content trends, and other relevant factors. The YouTube channel dataset used in this analysis was obtained from Kaggle. It contains information about multiple YouTube channels, including channel names, video uploads, number of subscribers, and total video views. 
+**Goal**- The insights gained can help content creators, marketers, and YouTube channel owners understand channel performance, and audience engagement, and optimize content strategies.
 
 
 
