@@ -10,3 +10,7 @@
 
 **4_Portfolio_Project (Udemy courses)**: This project focuses on analyzing Udemy course data using Exploratory Data Analysis (EDA) techniques in Python. The goal is to gain insights into course characteristics, ratings, pricing, and other relevant factors. The Udemy course dataset used in this analysis was obtained from Kaggle. It contains information such as course title, subject, price, ratings, number of subscribers, and more. <br>
 **Goal**-  The insights gained can help understand course subjects, preferences, pricing, and data quality, enabling course creators, learners, and marketers to make informed decisions.
+
+
+**5_Portfolio_Project (E-commerce Purchase)**: This project focuses on analyzing eCommerce purchase data using Exploratory Data Analysis (EDA) techniques in Python. The objective is to gain insights into customer behavior, purchase patterns, product preferences, and other relevant factors. The eCommerce purchase dataset used in this analysis was obtained from Kaggle. It contains information such as customer demographics, purchase details, product attributes, and transaction records. <br>
+**Goal**-  The insights gained can help understand customer behavior, purchase patterns, and product preferences, enabling businesses to make informed decisions, optimize marketing strategies, and enhance overall performance.
